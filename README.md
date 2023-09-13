@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuthuganeshD
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning B.Tech Information Technology as a Pre-Final year student
+- 🌱 I’m currently persuing B.Tech Information Technology as a Pre-Final year student
 - 📫 How to reach me muthuganeshd4512@gmail.com
 
 <!---

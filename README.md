@@ -6,7 +6,7 @@
 
 🚀 Eager to build impactful digital experiences and explore full-stack development
 
-📬 Let’s connect: muthuganeshd4512@gmail.com
+📬 Let’s connect: muthuganesh1046@gmail.com
 
 <!---
 MuthuganeshD/MuthuganeshD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
